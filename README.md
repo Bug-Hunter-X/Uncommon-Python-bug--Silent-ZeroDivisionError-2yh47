@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Python that can lead to unexpected behavior. The `my_function` attempts to divide by zero, but the exception is not handled, leading to a crash in a larger program.
